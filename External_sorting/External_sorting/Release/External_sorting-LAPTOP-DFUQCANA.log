@@ -1,0 +1,5 @@
+﻿  ExternalSorting.cpp
+  Form1.cpp
+C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Form1.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  External_sorting.vcxproj -> C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\Release\External_sorting.exe

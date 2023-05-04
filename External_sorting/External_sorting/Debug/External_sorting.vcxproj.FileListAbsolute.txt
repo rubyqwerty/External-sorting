@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\External_sorting\External_sorting\Debug\External_sorting.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\External_sorting\External_sorting\Debug\External_sorting.Form1.resources
+C:\Users\Admin\source\repos\External_sorting\External_sorting\Debug\External_sorting.vcxproj.GenerateResource.cache
+C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Debug\External_sorting.vcxproj.AssemblyReference.cache
+C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Debug\External_sorting.Form1.resources
+C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Debug\External_sorting.vcxproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Debug\External_sorting.vcxproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Debug\External_sorting.Form1.resources
+C:\Users\Admin\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Debug\External_sorting.vcxproj.GenerateResource.cache

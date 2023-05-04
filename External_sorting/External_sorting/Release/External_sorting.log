@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (External_sorting-LAPTOP-DFUQCANA.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Form1.cpp
+C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Form1.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\External_sorting\Form1.cpp(41,65): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  External_sorting.vcxproj -> C:\Users\gruni\OneDrive\Документы\Программирование\Проекты\External_sorting\Release\External_sorting.exe
